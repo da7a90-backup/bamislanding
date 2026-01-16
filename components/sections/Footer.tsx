@@ -185,7 +185,7 @@ export default function Footer() {
               href={`/${locale}/legal/terms`}
               className="hover:text-bamis-secondary transition-colors"
             >
-              Conditions d'utilisation
+              Conditions d&apos;utilisation
             </Link>
           </div>
         </div>

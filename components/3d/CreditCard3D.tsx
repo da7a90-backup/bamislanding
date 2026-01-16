@@ -318,8 +318,7 @@ export default function CreditCard3D({ className }: { className?: string }) {
           toneMappingExposure: 1.2,
           powerPreference: "high-performance",
           failIfMajorPerformanceCaveat: false,
-          preserveDrawingBuffer: false,
-          pixelRatio: Math.min(typeof window !== 'undefined' ? window.devicePixelRatio : 1, 2) // Cap at 2
+          preserveDrawingBuffer: false
         }}
         dpr={isMobile ? [0.75, 1] : [1, 2]} // Lower DPR on mobile
         performance={{ min: 0.5 }}

@@ -24,7 +24,7 @@ export default function BlogPage() {
   const localePosts = allPosts.filter(post => post.locale === locale)
 
   // Get unique categories and tags
-  const categories = Array.from(new Set(localePosts.map(post => post.category).filter(Boolean)))
+  const categories = Array.from(new Set(localePosts.map(post => post.category).filter(Boolean))) as string[]
   const allTags = Array.from(new Set(localePosts.flatMap(post => post.tags || [])))
 
   // Filter posts based on search and category

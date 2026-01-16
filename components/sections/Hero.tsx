@@ -104,7 +104,7 @@ export default function Hero() {
                 <div className="text-3xl font-bold text-bamis-secondary mb-1">
                   35+
                 </div>
-                <div className="text-sm text-gray-300">Années d'expérience</div>
+                <div className="text-sm text-gray-300">Années d&apos;expérience</div>
               </div>
               <div>
                 <div className="text-3xl font-bold text-bamis-secondary mb-1">
