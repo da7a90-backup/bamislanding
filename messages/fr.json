@@ -1,0 +1,1512 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "about": "Présentation",
+    "aboutPresident": "Mot du Président",
+    "aboutHistory": "Historique",
+    "aboutFigures": "Chiffres clés",
+    "aboutOrganization": "Organigramme",
+    "products": "Produits",
+    "productsAccounts": "Comptes",
+    "productsCards": "Cartes",
+    "productsFinancing": "Financement",
+    "productsInternational": "International",
+    "digitalBanking": "Services Digitaux",
+    "digitalApp": "BAMIS Digital",
+    "digitalPay": "BAMIS Pay",
+    "digitalWeb": "Web & Mobile Banking",
+    "digitalSMS": "SMS Banking",
+    "locations": "Réseau",
+    "locationsBranches": "Agences",
+    "locationsATMs": "GAB",
+    "resources": "Ressources",
+    "blog": "Blog",
+    "contact": "Contact"
+  },
+  "common": {
+    "learnMore": "En savoir plus",
+    "getStarted": "Commencer",
+    "openAccount": "Ouvrir un compte",
+    "readMore": "Lire la suite",
+    "viewAll": "Voir tout",
+    "search": "Rechercher",
+    "downloadApp": "Télécharger l'application",
+    "contactUs": "Nous contacter"
+  },
+  "home": {
+    "heroTitle": "Votre partenaire bancaire de confiance en Mauritanie",
+    "heroDescription": "Solutions bancaires innovantes et services digitaux pour particuliers et entreprises",
+    "heroCTA": "Découvrir nos services",
+    "featuresTitle": "Pourquoi choisir BAMIS?",
+    "feature1Title": "Banque 100% Mauritanienne",
+    "feature1Desc": "Une banque qui appartient entièrement à des actionnaires mauritaniens",
+    "feature2Title": "Services Digitaux Avancés",
+    "feature2Desc": "BAMIS Digital, Pay, Web Banking - gérez vos finances où que vous soyez",
+    "feature3Title": "Réseau National",
+    "feature3Desc": "9 agences et 14+ GAB à travers la Mauritanie",
+    "feature4Title": "Expertise & Innovation",
+    "feature4Desc": "Plus de 35 ans d'expérience au service de nos clients",
+    "heroBadge": "Banque 100% Mauritanienne",
+    "heroMainTitle": "Votre avenir",
+    "heroSubTitle": "financier",
+    "heroDescription2": "Solutions bancaires innovantes et services digitaux pour particuliers et entreprises",
+    "stats": {
+      "experience": {"value": "35+", "label": "Ans d'expérience"},
+      "branches": {"value": "9", "label": "Agences"},
+      "atms": {"value": "14+", "label": "GAB"}
+    },
+    "heroCTA1": "Ouvrir un compte",
+    "heroCTA2": "En savoir plus",
+    "trustBadge1": "Sécurisé & Conforme",
+    "trustBadge2": "Support 24/7",
+    "featuresSubtitle": "Pourquoi BAMIS fait la différence",
+    "featuresDescription": "Une banque 100% mauritanienne qui combine tradition bancaire et innovation digitale pour vous offrir le meilleur",
+    "additionalFeaturesTitle": "Ce qui rend BAMIS unique",
+    "additionalFeaturesSubtitle": "Des avantages concrets qui font toute la différence au quotidien",
+    "additionalFeatures": {
+      "security": {
+        "title": "Sécurité Bancaire de Niveau International",
+        "description": "Vos fonds et données personnelles protégés par les technologies de cryptage les plus avancées",
+        "stat": "100%",
+        "statLabel": "Sécurisé"
+      },
+      "availability": {
+        "title": "Disponibilité Continue 24h/24",
+        "description": "Gérez vos finances à toute heure via nos plateformes digitales innovantes",
+        "stat": "24/7",
+        "statLabel": "En ligne"
+      },
+      "team": {
+        "title": "Équipe Experte et Réactive",
+        "description": "Des conseillers dévoués pour vous accompagner dans tous vos projets financiers",
+        "stat": "50+",
+        "statLabel": "Conseillers"
+      },
+      "innovation": {
+        "title": "Innovation et Excellence Bancaire",
+        "description": "Leader en services digitaux avec des solutions toujours plus performantes",
+        "stat": "#1",
+        "statLabel": "Innovation"
+      },
+      "speed": {
+        "title": "Services Digitaux Rapides",
+        "description": "Accédez à vos comptes et effectuez vos opérations bancaires en toute simplicité",
+        "stat": "24/7",
+        "statLabel": "Accessible"
+      },
+      "stability": {
+        "title": "Croissance et Stabilité Garanties",
+        "description": "Une banque solide avec plus de 35 ans de confiance en Mauritanie",
+        "stat": "35+",
+        "statLabel": "Années"
+      }
+    },
+    "trustIndicators": {
+      "title": "La confiance de milliers de Mauritaniens depuis 1985",
+      "clients": {"value": "50,000+", "label": "Clients actifs"},
+      "assets": {"value": "5.6Mds", "label": "Actifs (MRU)"},
+      "availability": {"value": "99.9%", "label": "Disponibilité"},
+      "satisfaction": {"value": "4.8/5", "label": "Satisfaction"}
+    },
+    "productsShowcase": {
+      "title": "Nos Produits & Services",
+      "subtitle": "Des solutions bancaires complètes pour tous vos besoins financiers",
+      "accounts": {
+        "title": "Comptes Bancaires",
+        "description": "Comptes courants, d'épargne et professionnels adaptés à vos besoins",
+        "features": {
+          "0": "Tenue de compte gratuite",
+          "1": "Carte bancaire incluse",
+          "2": "Relevés électroniques"
+        }
+      },
+      "cards": {
+        "title": "Cartes Bancaires",
+        "description": "Cartes VISA et GIMTEL pour vos paiements locaux et internationaux",
+        "features": {
+          "0": "Visa Gold",
+          "1": "Cartes prépayées",
+          "2": "Retraits 24/7"
+        }
+      },
+      "financing": {
+        "title": "Financement",
+        "description": "Solutions de financement adaptées pour vos projets personnels et professionnels",
+        "features": {
+          "0": "Mourabaha",
+          "1": "Leasing",
+          "2": "Crédit à la consommation"
+        }
+      },
+      "international": {
+        "title": "Services Internationaux",
+        "description": "Opérations de change, transferts et services bancaires à l'international",
+        "features": {
+          "0": "Transferts Swift",
+          "1": "Comptes devises",
+          "2": "Change"
+        }
+      }
+    },
+    "digitalServices": {
+      "title": "Services Digitaux",
+      "subtitle": "Gérez vos finances où que vous soyez avec nos solutions digitales innovantes",
+      "bamisDigital": {
+        "name": "BAMIS Digital",
+        "description": "Application mobile pour accéder aux services bancaires en toute autonomie 24H/24 7J/7",
+        "features": {
+          "0": "Ouverture de compte à distance",
+          "1": "Transactions en toute sécurité",
+          "2": "Activation/désactivation des cartes",
+          "3": "Gestion des plafonds"
+        }
+      },
+      "bamisPay": {
+        "name": "BAMIS Pay",
+        "description": "Solution de paiement mobile pour commerçants avec notifications en temps réel",
+        "features": {
+          "0": "Accepter les paiements",
+          "1": "Transferts P2P",
+          "2": "Recharge de cartes",
+          "3": "Historique des transactions"
+        }
+      },
+      "webMobile": {
+        "name": "Web & Mobile Banking",
+        "description": "Accédez à vos comptes 24/7 depuis votre navigateur ou application mobile",
+        "features": {
+          "0": "Consultation de soldes",
+          "1": "Virements en temps réel",
+          "2": "Demande de chéquier",
+          "3": "Relevés électroniques"
+        }
+      },
+      "smsBanking": {
+        "name": "SMS Banking",
+        "description": "Services bancaires par SMS pour consulter vos comptes et effectuer des opérations",
+        "features": {
+          "0": "Consultation de solde",
+          "1": "Historique des opérations",
+          "2": "Taux de change",
+          "3": "Alertes SMS"
+        }
+      },
+      "downloadTitle": "Téléchargez BAMIS Digital",
+      "downloadSubtitle": "Disponible sur iOS et Android",
+      "appStore": "App Store",
+      "googlePlay": "Google Play"
+    },
+    "callToAction": {
+      "title": "Prêt à commencer votre parcours avec BAMIS?",
+      "subtitle": "Ouvrez votre compte en quelques minutes et profitez de tous nos services digitaux.",
+      "contactTitle": "Contactez-nous",
+      "phone": "Téléphone",
+      "phoneValue": "+222 45 25 14 24",
+      "email": "Email",
+      "emailValue": "contact@bamis.mr",
+      "hours": "Horaires d'ouverture",
+      "mondayThursday": "Lundi - Jeudi",
+      "mondayThursdayHours": "8:00 - 16:00",
+      "friday": "Vendredi",
+      "fridayHours": "8:00 - 11:30",
+      "digitalServices": "Services digitaux",
+      "digitalHours": "24/7"
+    }
+  },
+  "footer": {
+    "about": "À propos",
+    "quickLinks": "Liens rapides",
+    "legal": "Mentions légales",
+    "followUs": "Suivez-nous",
+    "copyright": "© 2025 BAMIS - Tous droits réservés"
+  },
+  "bamisDigital": {
+    "hero": {
+      "badge": "Application Mobile N°1 en Mauritanie",
+      "title": "BAMIS Digital",
+      "subtitle": "Votre banque dans votre poche",
+      "description": "La solution de banque mobile la plus complète et sécurisée de Mauritanie. Gérez tous vos comptes, payez vos factures et transférez de l'argent en quelques secondes.",
+      "downloadAndroid": "Télécharger sur Android",
+      "downloadIOS": "Télécharger sur iOS"
+    },
+    "stats": {
+      "users": {
+        "value": "50,000+",
+        "label": "Utilisateurs actifs"
+      },
+      "transactions": {
+        "value": "2M+",
+        "label": "Transactions mensuelles"
+      },
+      "availability": {
+        "value": "24/7",
+        "label": "Disponibilité"
+      },
+      "security": {
+        "value": "99.9%",
+        "label": "Sécurité garantie"
+      }
+    },
+    "features": {
+      "sectionBadge": "Fonctionnalités Complètes",
+      "sectionTitle": "Tout ce dont vous avez besoin",
+      "sectionDescription": "Une application tout-en-un pour gérer vos finances au quotidien avec simplicité et sécurité",
+      "accountManagement": {
+        "title": "Gestion de Comptes Instantanée",
+        "description": "Consultez vos soldes, historiques de transactions et gérez vos comptes en temps réel 24h/24",
+        "benefits": {
+          "0": "Solde en temps réel",
+          "1": "Historique complet",
+          "2": "Notifications instantanées",
+          "3": "Multi-comptes"
+        }
+      },
+      "transfers": {
+        "title": "Virements en Temps Réel",
+        "description": "Transférez de l'argent en temps réel vers n'importe quel compte BAMIS ou autre banque mauritanienne",
+        "benefits": {
+          "0": "En temps réel",
+          "1": "Entre comptes BAMIS gratuit",
+          "2": "Vers autres banques",
+          "3": "Virements programmés"
+        }
+      },
+      "billPayments": {
+        "title": "Paiements de Factures Simplifiés",
+        "description": "Payez toutes vos factures (eau, électricité, téléphone) directement depuis l'application",
+        "benefits": {
+          "0": "Paiement SNDE",
+          "1": "Paiement SOMELEC",
+          "2": "Recharges téléphoniques",
+          "3": "Factures internet"
+        }
+      },
+      "qrPayments": {
+        "title": "Paiements QR Code Commerçants",
+        "description": "Payez chez les commerçants partenaires en scannant simplement un QR code",
+        "benefits": {
+          "0": "Paiement sans contact",
+          "1": "Réseau commerçants étendu",
+          "2": "Cashback offres spéciales",
+          "3": "Historique achats"
+        }
+      },
+      "cardRequest": {
+        "title": "Demande de Carte Bancaire",
+        "description": "Commandez vos cartes VISA directement depuis l'app et suivez la livraison",
+        "benefits": {
+          "0": "Commande en ligne",
+          "1": "Suivi de livraison",
+          "2": "Activation instantanée",
+          "3": "Gestion des limites"
+        }
+      },
+      "international": {
+        "title": "Services Internationaux",
+        "description": "Effectuez des transferts internationaux et gérez vos opérations en devises",
+        "benefits": {
+          "0": "Transferts Swift",
+          "1": "Taux de change en direct",
+          "2": "Multi-devises",
+          "3": "Suivi transparent"
+        }
+      }
+    },
+    "security": {
+      "title": "Sécurité de Niveau Bancaire International",
+      "description": "Vos données et transactions sont protégées par les technologies de sécurité les plus avancées",
+      "biometric": {
+        "title": "Authentification Biométrique",
+        "description": "Face ID, Touch ID et empreinte digitale pour une sécurité maximale"
+      },
+      "notifications": {
+        "title": "Notifications en Temps Réel",
+        "description": "Soyez alerté instantanément de chaque transaction sur votre compte"
+      },
+      "encryption": {
+        "title": "Cryptage Bancaire de Niveau Militaire",
+        "description": "Toutes vos données sont protégées par un cryptage AES-256 bits"
+      }
+    },
+    "cta": {
+      "title": "Rejoignez 50,000+ utilisateurs satisfaits",
+      "description": "Téléchargez BAMIS Digital gratuitement et découvrez la banque mobile nouvelle génération",
+      "downloadNow": "Télécharger maintenant",
+      "learnMore": "En savoir plus"
+    }
+  },
+  "bamisPay": {
+    "hero": {
+      "badge": "Solution de Paiement Mobile",
+      "title": "BAMIS Pay",
+      "subtitle": "Payez en un scan",
+      "description": "La solution de paiement mobile la plus rapide et simple de Mauritanie. Payez chez 500+ commerçants et gagnez du cashback sur chaque achat.",
+      "downloadApp": "Télécharger l'app",
+      "becomePartner": "Devenir commerçant partenaire"
+    },
+    "stats": {
+      "merchants": {
+        "value": "500+",
+        "label": "Commerçants partenaires"
+      },
+      "users": {
+        "value": "25,000+",
+        "label": "Utilisateurs actifs"
+      },
+      "transactions": {
+        "value": "500K+",
+        "label": "Transactions mensuelles"
+      },
+      "cashback": {
+        "value": "5%",
+        "label": "Cashback maximum"
+      }
+    },
+    "features": {
+      "sectionBadge": "Fonctionnalités Puissantes",
+      "sectionTitle": "Tout pour simplifier vos paiements",
+      "sectionDescription": "Une solution complète pour tous vos besoins de paiement digital au quotidien",
+      "qrCode": {
+        "title": "Paiement QR Code Sans Contact",
+        "description": "Scannez et payez en 2 secondes chez tous les commerçants partenaires BAMIS Pay",
+        "benefits": {
+          "0": "Paiement instantané",
+          "1": "Sans carte physique",
+          "2": "Sécurisé à 100%",
+          "3": "Historique complet"
+        }
+      },
+      "ecommerce": {
+        "title": "Paiements E-Commerce Locaux",
+        "description": "Payez sur tous les sites marchands mauritaniens en toute sécurité",
+        "benefits": {
+          "0": "Boutiques en ligne",
+          "1": "Livraison à domicile",
+          "2": "Paiement sécurisé",
+          "3": "Protection acheteur"
+        }
+      },
+      "bills": {
+        "title": "Paiement de Factures Intégré",
+        "description": "Payez toutes vos factures sans quitter l'application",
+        "benefits": {
+          "0": "SNDE (eau)",
+          "1": "SOMELEC (électricité)",
+          "2": "Téléphonie",
+          "3": "Internet & TV"
+        }
+      },
+      "p2p": {
+        "title": "Transferts P2P Instantanés",
+        "description": "Envoyez de l'argent à vos proches en quelques secondes",
+        "benefits": {
+          "0": "Transfert immédiat",
+          "1": "Numéro de téléphone",
+          "2": "QR code personnel",
+          "3": "Gratuit entre BAMIS Pay"
+        }
+      },
+      "loyalty": {
+        "title": "Programme de Fidélité & Cashback",
+        "description": "Gagnez des points et du cashback sur chaque transaction",
+        "benefits": {
+          "0": "Cashback jusqu'à 5%",
+          "1": "Offres exclusives",
+          "2": "Récompenses mensuelles",
+          "3": "Partenaires premium"
+        }
+      },
+      "merchants": {
+        "title": "Solution Commerçants Pro",
+        "description": "Acceptez les paiements digitaux et développez votre business",
+        "benefits": {
+          "0": "Terminal virtuel",
+          "1": "Tableau de bord",
+          "2": "Rapports détaillés",
+          "3": "Commission compétitive"
+        }
+      }
+    },
+    "useCases": {
+      "sectionTitle": "Payez partout avec BAMIS Pay",
+      "sectionDescription": "Un réseau en constante expansion pour vous servir au quotidien",
+      "0": {
+        "title": "Restaurants & Cafés",
+        "description": "Payez l'addition sans sortir votre portefeuille"
+      },
+      "1": {
+        "title": "Supermarchés & Épiceries",
+        "description": "Courses rapides avec paiement QR en caisse"
+      },
+      "2": {
+        "title": "Stations-Service",
+        "description": "Faites le plein et payez depuis votre voiture"
+      },
+      "3": {
+        "title": "Pharmacies",
+        "description": "Achat de médicaments en toute simplicité"
+      },
+      "4": {
+        "title": "Boutiques & Mode",
+        "description": "Shopping facile avec cashback instantané"
+      },
+      "5": {
+        "title": "Services & Artisans",
+        "description": "Payez votre coiffeur, mécanicien, plombier..."
+      }
+    },
+    "cta": {
+      "title": "Gagnez jusqu'à 5% de cashback",
+      "description": "Plus vous utilisez BAMIS Pay, plus vous économisez. Profitez d'offres exclusives chez nos partenaires.",
+      "startNow": "Commencer maintenant",
+      "viewOffers": "Voir les offres"
+    }
+  },
+  "webMobile": {
+    "hero": {
+      "badge": "Banque en Ligne Multi-Plateformes",
+      "title": "Web & Mobile",
+      "subtitle": "Banking",
+      "description": "Gérez vos comptes depuis votre ordinateur ou smartphone avec la même facilité. Banque en ligne complète accessible 24h/24, 7j/7 depuis partout dans le monde.",
+      "accessWeb": "Accéder à Web Banking",
+      "downloadMobile": "Télécharger l'app mobile"
+    },
+    "stats": {
+      "users": {
+        "value": "40,000+",
+        "label": "Utilisateurs actifs"
+      },
+      "operations": {
+        "value": "1.5M+",
+        "label": "Opérations mensuelles"
+      },
+      "availability": {
+        "value": "24/7",
+        "label": "Disponibilité"
+      },
+      "satisfaction": {
+        "value": "99.9%",
+        "label": "Satisfaction"
+      }
+    },
+    "features": {
+      "sectionBadge": "Fonctionnalités Avancées",
+      "sectionTitle": "Tout ce dont vous avez besoin",
+      "sectionDescription": "Une plateforme complète pour gérer tous vos besoins bancaires en ligne",
+      "consultation": {
+        "title": "Consultation de Comptes 24/7",
+        "description": "Accédez à vos comptes et consultez vos soldes à tout moment depuis n'importe où",
+        "benefits": {
+          "0": "Soldes en temps réel",
+          "1": "Historique détaillé",
+          "2": "Multi-comptes",
+          "3": "Relevés électroniques"
+        }
+      },
+      "transfers": {
+        "title": "Virements en Ligne Sécurisés",
+        "description": "Effectuez vos virements bancaires en quelques clics de manière totalement sécurisée",
+        "benefits": {
+          "0": "Virements BAMIS",
+          "1": "Inter-bancaires",
+          "2": "Virements permanents",
+          "3": "Validation OTP"
+        }
+      },
+      "cards": {
+        "title": "Gestion de Cartes Complète",
+        "description": "Gérez toutes vos cartes bancaires : activation, opposition, changement de code PIN",
+        "benefits": {
+          "0": "Activation instantanée",
+          "1": "Opposition urgente",
+          "2": "Changement PIN",
+          "3": "Gestion des limites"
+        }
+      },
+      "checkbook": {
+        "title": "Demande de Chéquier en Ligne",
+        "description": "Commandez vos chéquiers directement en ligne et suivez la livraison",
+        "benefits": {
+          "0": "Commande en ligne",
+          "1": "Suivi de livraison",
+          "2": "Historique chèques",
+          "3": "Opposition chèque"
+        }
+      },
+      "documents": {
+        "title": "Téléchargement de Documents",
+        "description": "Téléchargez tous vos relevés, attestations et RIB en PDF",
+        "benefits": {
+          "0": "Relevés mensuels",
+          "1": "Attestations",
+          "2": "RIB instantané",
+          "3": "Historique illimité"
+        }
+      },
+      "analytics": {
+        "title": "Analyse Financière Intelligente",
+        "description": "Visualisez vos dépenses avec des graphiques et tableaux de bord",
+        "benefits": {
+          "0": "Graphiques interactifs",
+          "1": "Catégorisation auto",
+          "2": "Budgets personnalisés",
+          "3": "Prévisions"
+        }
+      }
+    },
+    "platforms": {
+      "title": "Deux plateformes, une expérience",
+      "description": "Passez de l'une à l'autre en toute fluidité selon vos besoins",
+      "web": {
+        "title": "Web Banking",
+        "features": {
+          "0": "Interface responsive",
+          "1": "Toutes fonctionnalités",
+          "2": "Impression documents",
+          "3": "Exportation Excel",
+          "4": "Gestion complète"
+        }
+      },
+      "mobile": {
+        "title": "Mobile Banking",
+        "features": {
+          "0": "Interface tactile",
+          "1": "Notifications push",
+          "2": "Authentification bio",
+          "3": "Mode hors ligne",
+          "4": "Accès rapide"
+        }
+      }
+    },
+    "security": {
+      "title": "Sécurité de Niveau Bancaire Certifiée",
+      "description": "Vos données et transactions bénéficient des standards de sécurité les plus élevés",
+      "features": {
+        "twoFactor": {
+          "title": "Authentification Forte à 2 Facteurs",
+          "description": "Connexion sécurisée avec identifiant + mot de passe + code OTP SMS"
+        },
+        "ssl": {
+          "title": "Cryptage SSL/TLS Certificat 256-bits",
+          "description": "Toutes les communications sont chiffrées de bout en bout"
+        },
+        "monitoring": {
+          "title": "Surveillance 24/7 Anti-Fraude",
+          "description": "Système de détection automatique des activités suspectes"
+        },
+        "encryption": {
+          "title": "Cryptage de Données Avancé",
+          "description": "Protection maximale de vos informations personnelles"
+        }
+      }
+    },
+    "cta": {
+      "title": "Commencez à gérer vos comptes en ligne",
+      "description": "Inscrivez-vous gratuitement et accédez à tous vos comptes BAMIS en ligne",
+      "button": "S'inscrire maintenant",
+      "userGuide": "Guide d'utilisation"
+    }
+  },
+  "smsBanking": {
+    "hero": {
+      "badge": "Banque par SMS - Sans Internet",
+      "title": "SMS Banking",
+      "subtitle": "Votre banque par texto",
+      "description": "Gérez vos comptes par simple SMS, partout en Mauritanie, même sans connexion internet. Simple, rapide, et accessible sur tous les téléphones mobiles.",
+      "startNow": "Activer SMS Banking",
+      "seeCommands": "Guide des commandes"
+    },
+    "stats": {
+      "users": {
+        "value": "30,000+",
+        "label": "Utilisateurs actifs"
+      },
+      "sms": {
+        "value": "200K+",
+        "label": "SMS mensuels"
+      },
+      "responseTime": {
+        "value": "<5s",
+        "label": "Temps de réponse"
+      },
+      "security": {
+        "value": "100%",
+        "label": "Sécurisé"
+      }
+    },
+    "features": {
+      "sectionBadge": "Services Disponibles",
+      "sectionTitle": "Toutes vos opérations par SMS",
+      "sectionDescription": "Une solution simple et accessible pour gérer votre compte depuis n'importe quel téléphone",
+      "balance": {
+        "title": "Consultation de Solde Instantanée",
+        "description": "Connaissez votre solde en quelques secondes par simple SMS",
+        "command": "SOL",
+        "response": "Votre solde est de 125,450 MRU"
+      },
+      "transfer": {
+        "title": "Virements par SMS Sécurisés",
+        "description": "Transférez de l'argent instantanément avec un simple code SMS",
+        "command": "VIR*NumCompte*Montant",
+        "response": "Virement de 5000 MRU effectué avec succès"
+      },
+      "history": {
+        "title": "Historique des Dernières Opérations",
+        "description": "Recevez le détail de vos 5 dernières transactions",
+        "command": "HIST",
+        "response": "5 dernières opérations envoyées par SMS"
+      },
+      "cardStatus": {
+        "title": "Gestion de Carte Bancaire",
+        "description": "Activez, bloquez ou débloquez votre carte par SMS",
+        "command": "BLOC*NumCarte",
+        "response": "Carte ****5678 bloquée avec succès"
+      },
+      "billPayment": {
+        "title": "Paiement de Factures",
+        "description": "Payez vos factures directement par SMS",
+        "command": "PAY*Code*Montant",
+        "response": "Paiement de 500 MRU effectué"
+      },
+      "blockCard": {
+        "title": "Blocage de Carte d'Urgence",
+        "description": "Bloquez votre carte instantanément en cas de perte",
+        "command": "BLOC*NumCarte",
+        "response": "Carte bloquée avec succès"
+      }
+    },
+    "commands": {
+      "title": "Guide des Commandes SMS",
+      "description": "Liste complète des codes SMS pour gérer votre compte BAMIS",
+      "list": {
+        "0": {
+          "code": "SOL",
+          "description": "Consultation du solde",
+          "example": "Envoyez SOL au 1234"
+        },
+        "1": {
+          "code": "HIST",
+          "description": "Historique des 5 dernières opérations",
+          "example": "Envoyez HIST au 1234"
+        },
+        "2": {
+          "code": "VIR",
+          "description": "Virement (VIR*Compte*Montant*Code)",
+          "example": "VIR*123456*5000*1234"
+        },
+        "3": {
+          "code": "RIB",
+          "description": "Recevoir votre RIB par SMS",
+          "example": "Envoyez RIB au 1234"
+        },
+        "4": {
+          "code": "BLOC",
+          "description": "Bloquer une carte (BLOC*NumCarte)",
+          "example": "BLOC*5678"
+        },
+        "5": {
+          "code": "HELP",
+          "description": "Liste de toutes les commandes",
+          "example": "Envoyez HELP au 1234"
+        }
+      }
+    },
+    "number": {
+      "title": "Numéro SMS Banking BAMIS",
+      "value": "1234",
+      "description": "Envoyez vos commandes à ce numéro depuis votre téléphone enregistré"
+    },
+    "benefits": {
+      "title": "Pourquoi choisir SMS Banking ?",
+      "sectionDescription": "La solution bancaire la plus accessible de Mauritanie",
+      "list": {
+        "0": {
+          "title": "Instantané",
+          "description": "Réponse en moins de 5 secondes"
+        },
+        "1": {
+          "title": "Aucune connexion internet",
+          "description": "Fonctionne même en zone rurale"
+        },
+        "2": {
+          "title": "Économique",
+          "description": "Pas de consommation de data"
+        },
+        "3": {
+          "title": "Universel",
+          "description": "Sur tous les téléphones mobiles"
+        },
+        "4": {
+          "title": "Sécurisé",
+          "description": "Code PIN personnel requis"
+        },
+        "5": {
+          "title": "24/7",
+          "description": "Disponible jour et nuit"
+        }
+      }
+    },
+    "cta": {
+      "title": "Activez SMS Banking gratuitement",
+      "description": "Rendez-vous dans n'importe quelle agence BAMIS avec votre pièce d'identité et votre téléphone",
+      "button": "Trouver une agence",
+      "downloadGuide": "Télécharger le guide PDF"
+    }
+  },
+  "organization": {
+    "hero": {
+      "badge": "Notre Organisation",
+      "title": "Banque Al Wava Mauritanienne Islamique",
+      "description": "BAMIS, première banque islamique de Mauritanie, fondée pour offrir des services bancaires conformes aux principes de la Charia tout en répondant aux besoins financiers modernes de nos clients."
+    },
+    "stats": {
+      "experience": {
+        "value": "35+",
+        "label": "Années d'expérience"
+      },
+      "clients": {
+        "value": "100,000+",
+        "label": "Clients actifs"
+      },
+      "branches": {
+        "value": "15+",
+        "label": "Agences en Mauritanie"
+      },
+      "ranking": {
+        "value": "N°1",
+        "label": "Banque islamique mauritanienne"
+      }
+    },
+    "mission": {
+      "title": "Notre Mission",
+      "description": "Fournir des services bancaires islamiques de qualité, conformes aux principes de la Charia, tout en accompagnant le développement économique et social de la Mauritanie. Nous nous engageons à offrir des solutions financières éthiques et innovantes qui répondent aux besoins de tous les mauritaniens."
+    },
+    "vision": {
+      "title": "Notre Vision",
+      "description": "Être la banque islamique de référence en Mauritanie, reconnue pour son excellence, son innovation et son engagement envers ses clients. Nous aspirons à contribuer activement au développement durable du pays tout en maintenant les plus hauts standards de conformité islamique et de service client."
+    },
+    "values": {
+      "title": "Nos Valeurs",
+      "description": "Les principes qui guident nos actions au quotidien",
+      "list": {
+        "islamicCompliance": {
+          "title": "Conformité Islamique",
+          "description": "Respect strict des principes de la finance islamique et de la Charia"
+        },
+        "clientService": {
+          "title": "Service Client Excellence",
+          "description": "Engagement envers la satisfaction et le bien-être de nos clients"
+        },
+        "innovation": {
+          "title": "Innovation",
+          "description": "Solutions bancaires modernes adaptées aux besoins mauritaniens"
+        },
+        "integrity": {
+          "title": "Intégrité",
+          "description": "Transparence et éthique dans toutes nos opérations"
+        }
+      }
+    },
+    "headquarters": {
+      "title": "Siège Social",
+      "name": "Banque Al Wava Mauritanienne Islamique (BAMIS)",
+      "address": "758, Rue 22-018 - Avenue du Roi Fayçal, BP 650 Nouakchott, Mauritanie",
+      "phone": "Téléphone: (222) 45 25 14 24 / 45 25 22 26",
+      "fax": "Fax: (222) 45 25 16 21"
+    },
+    "cta": {
+      "title": "Rejoignez la famille BAMIS",
+      "description": "Découvrez nos opportunités de carrière et faites partie d'une équipe engagée pour l'excellence"
+    }
+  },
+  "accounts": {
+    "hero": {
+      "title": "Nos Comptes Bancaires",
+      "description": "Choisissez le compte qui correspond le mieux à vos besoins financiers"
+    },
+    "list": {
+      "0": {
+        "title": "Compte Courant",
+        "description": "Un compte pour gérer vos transactions quotidiennes en toute simplicité",
+        "features": {
+          "0": "Carte bancaire gratuite",
+          "1": "Relevés électroniques",
+          "2": "Services bancaires en ligne 24/7",
+          "3": "Découvert autorisé sur demande"
+        }
+      },
+      "1": {
+        "title": "Compte d'Épargne",
+        "description": "Faites fructifier votre argent avec des taux compétitifs",
+        "features": {
+          "0": "Rendement annuel attractif",
+          "1": "Accès facile à vos fonds",
+          "2": "Sécurité garantie",
+          "3": "Pas de frais de gestion"
+        }
+      },
+      "2": {
+        "title": "Compte Professionnel",
+        "description": "Solutions bancaires adaptées aux besoins de votre entreprise",
+        "features": {
+          "0": "Services de paiement avancés",
+          "1": "Gestion multi-utilisateurs",
+          "2": "Conseiller dédié",
+          "3": "Outils de gestion intégrés"
+        }
+      }
+    },
+    "requirements": {
+      "title": "Documents Requis",
+      "subtitle": "Préparez ces documents pour accélérer l'ouverture de votre compte",
+      "individual": {
+        "title": "Comptes Particuliers",
+        "list": {
+          "0": "Photo d'identité sur fond blanc",
+          "1": "Copie de la carte d'identité nationale",
+          "2": "Justificatif de revenus (bulletin de salaire, etc.)",
+          "3": "Dépôt initial"
+        }
+      },
+      "business": {
+        "title": "Comptes Professionnels",
+        "list": {
+          "0": "Copie des statuts",
+          "1": "Copie du registre de commerce",
+          "2": "Certificat d'identification fiscale",
+          "3": "Photos des signataires du compte"
+        }
+      }
+    },
+    "cta": {
+      "title": "Prêt à ouvrir votre compte?",
+      "description": "Notre équipe est disponible pour vous accompagner dans l'ouverture de votre compte",
+      "button1": "Contactez-nous",
+      "button2": "Trouver une agence"
+    }
+  },
+  "products": {
+    "hero": {
+      "title": "Nos Produits & Services",
+      "description": "Des solutions bancaires complètes pour accompagner tous vos projets, personnels comme professionnels",
+      "cta": "Ouvrir un compte"
+    },
+    "list": {
+      "0": {
+        "title": "Comptes Bancaires",
+        "description": "Comptes courants, d'épargne et professionnels adaptés à tous vos besoins financiers",
+        "features": {
+          "0": "Compte courant pour particuliers",
+          "1": "Compte d'épargne rémunéré",
+          "2": "Compte professionnel multi-devises",
+          "3": "Gestion en ligne 24/7"
+        }
+      },
+      "1": {
+        "title": "Cartes Bancaires",
+        "description": "Une gamme complète de cartes pour tous vos paiements locaux et internationaux",
+        "features": {
+          "0": "8 types de cartes disponibles",
+          "1": "VISA et GIMTEL",
+          "2": "Cartes prépayées sans compte",
+          "3": "Gestion via BAMIS Digital"
+        }
+      },
+      "2": {
+        "title": "Solutions de Financement",
+        "description": "Financez vos projets personnels et professionnels avec nos solutions adaptées",
+        "features": {
+          "0": "Mourabaha (1-12 mois)",
+          "1": "Leasing équipement (3-5 ans)",
+          "2": "Crédit à la consommation",
+          "3": "Garanties et avals"
+        }
+      },
+      "3": {
+        "title": "Services Internationaux",
+        "description": "Toutes vos opérations internationales facilitées par notre réseau mondial",
+        "features": {
+          "0": "Transferts Swift",
+          "1": "Comptes en devises (EUR, USD)",
+          "2": "Opérations documentaires",
+          "3": "Change de devises"
+        }
+      }
+    },
+    "advantages": {
+      "title": "Pourquoi choisir BAMIS ?",
+      "subtitle": "Une banque 100% mauritanienne qui vous accompagne depuis plus de 35 ans",
+      "list": {
+        "0": {
+          "title": "Sécurité maximale",
+          "description": "Vos fonds et données protégés par les meilleurs standards"
+        },
+        "1": {
+          "title": "Disponibilité 24/7",
+          "description": "Accédez à vos services bancaires à tout moment"
+        },
+        "2": {
+          "title": "Sans frais cachés",
+          "description": "Tarification transparente et compétitive"
+        }
+      }
+    },
+    "cta": {
+      "title": "Prêt à découvrir nos produits ?",
+      "description": "Nos conseillers sont à votre disposition pour vous aider à choisir les solutions adaptées à vos besoins",
+      "button1": "Prendre rendez-vous",
+      "button2": "Trouver une agence"
+    }
+  },
+  "history": {
+    "title": "Notre Histoire",
+    "subtitle": "Plus de 35 ans au service de l'économie mauritanienne",
+    "metaTitle": "Notre Histoire",
+    "metaDescription": "L'histoire de BAMIS depuis sa création en 1985",
+    "timeline": {
+      "1985": {
+        "year": "1985",
+        "title": "Fondation",
+        "description": "Établissement de la \"Banque Al Baraka Mauritanienne Islamique\" le 21 septembre 1985, fruit d'un partenariat entre investisseurs saoudiens et hommes d'affaires mauritaniens, avec un capital initial de 500 millions MRO."
+      },
+      "1992-1995": {
+        "year": "1992-1995",
+        "title": "Première Restructuration",
+        "description": "La Banque Centrale cède sa participation à des actionnaires privés mauritaniens en 1992. Le capital est augmenté à 3,7 milliards MRO, avec le Groupe Al Baraka devenant actionnaire majoritaire à 87,8%."
+      },
+      "1996-2001": {
+        "year": "1996-2001",
+        "title": "Transition de Propriété",
+        "description": "En 1996, Al Baraka transfère ses actions à des actionnaires mauritaniens qui prennent le contrôle majoritaire. Le nom de la banque devient \"Banque Al Wava Mauritanienne Islamique (BAMIS)\" en novembre 2001."
+      },
+      "1999-2011": {
+        "year": "1999-2011",
+        "title": "Mauritanisation",
+        "description": "Restructuration du capital à 2 milliards MRO en 1999 sous nouvelle direction. En 2011, le Groupe Al Baraka vend ses parts restantes, faisant de BAMIS \"une banque appartenant à 100% à des particuliers mauritaniens\"."
+      },
+      "2009-2019": {
+        "year": "2009-2019",
+        "title": "Phase de Croissance",
+        "description": "Augmentations successives du capital : 5,5 milliards MRO (2009), 7 milliards MRO (2012), 9 milliards MRO (2016), et 1,013 milliard MRU (2019) suite au changement de monnaie. Les actionnaires principaux incluent Mohamed Abdallahi Ould Abdallahi et NASR."
+      },
+      "today": {
+        "year": "Aujourd'hui",
+        "title": "Impact sur le Marché",
+        "description": "L'institution finance des secteurs vitaux incluant le transport urbain, la pêche industrielle et les PME, avec un réseau de 9 agences et 14+ GAB à travers la Mauritanie."
+      }
+    },
+    "stats": {
+      "experience": {
+        "value": "35+",
+        "label": "Années d'expérience"
+      },
+      "mauritanian": {
+        "value": "100%",
+        "label": "Mauritanienne"
+      },
+      "branches": {
+        "value": "9",
+        "label": "Agences"
+      },
+      "atms": {
+        "value": "14+",
+        "label": "GAB"
+      }
+    }
+  },
+  "keyFigures": {
+    "title": "Chiffres Clés",
+    "subtitle": "Performance financière et indicateurs de croissance de BAMIS",
+    "cards": {
+      "assets": "Total Actifs (MRU)",
+      "deposits": "Total Dépôts (MRU)",
+      "credit": "Total Crédit (MRU)",
+      "equity": "Fonds Propres (MRU)"
+    },
+    "charts": {
+      "balanceEvolution": "Évolution du Bilan",
+      "creditGrowth": "Croissance du Crédit",
+      "assets": "Actifs",
+      "deposits": "Dépôts",
+      "credit": "Crédit",
+      "equityLabel": "Fonds Propres"
+    },
+    "table": {
+      "title": "Données Financières Détaillées (Millions MRU)",
+      "indicator": "Indicateur",
+      "totalAssets": "Total Actifs",
+      "totalDeposits": "Total Dépôts",
+      "totalCredit": "Total Crédit",
+      "shareCapital": "Capital Social",
+      "equity": "Fonds Propres"
+    },
+    "observations": {
+      "title": "Observations Clés",
+      "obs1": "Les actifs totaux ont augmenté de 13,5% en 2021, atteignant 5 672 millions MRU",
+      "obs2": "Le portefeuille de crédit a connu une croissance remarquable de 20% en 2021",
+      "obs3": "Les dépôts ont progressé de 13%, reflétant la confiance des clients",
+      "obs4": "Le capital social demeure stable à 1 013 millions MRU"
+    }
+  },
+  "president": {
+    "title": "Mot du Président",
+    "metaTitle": "Mot du Président",
+    "metaDescription": "Message du Président de BAMIS, Mohamed Abdallahi Abdallahi",
+    "presidentName": "Mohamed Abdallahi Abdallahi",
+    "presidentTitle": "Président",
+    "message": {
+      "greeting": "Chers clients, partenaires et visiteurs,",
+      "para1": "C'est avec grand plaisir que je vous accueille sur le site internet rénové de la BAMIS, reflet de notre engagement dans la transformation digitale et notre adaptation à la redenomination de la monnaie mauritanienne.",
+      "para2": "Notre banque a connu ces dernières années des améliorations organisationnelles remarquables en matière de rentabilité, de développement des ressources humaines et de modernisation de nos systèmes d'information.",
+      "para3": "Je vous invite à découvrir et à souscrire à nos offres digitales innovantes :",
+      "para4": "Nous proposons également des cartes nationales GIMTEL et internationales VISA permettant les retraits, les paiements et les transferts via notre réseau de GAB.",
+      "para5": "L'innovation et la qualité constituent nos principaux avantages compétitifs. Nous nous engageons à maintenir notre position de leader tout en servant nos clients de manière responsable.",
+      "para6": "Ce site web constitue une plateforme de dialogue conçue pour renforcer nos relations clients et la transparence de notre organisation.",
+      "closing": "Cordialement,",
+      "signature": "Président de BAMIS"
+    },
+    "services": {
+      "digital": "BAMIS DIGITAL",
+      "pay": "BAMIS PAY",
+      "mobile": "BAMIS MOBILE BANKING",
+      "web": "BAMIS WEB BANKING",
+      "sms": "BAMIS SMS BANKING"
+    },
+    "cta": {
+      "title": "Rejoignez la Famille BAMIS",
+      "description": "Découvrez nos services digitaux et profitez d'une expérience bancaire moderne",
+      "button1": "Nos Produits",
+      "button2": "Nous Contacter"
+    }
+  },
+  "blog": {
+    "title": "Blog BAMIS",
+    "subtitle": "Actualités, conseils et informations sur nos services bancaires",
+    "search": "Rechercher des articles...",
+    "allCategories": "Tous",
+    "noResults": "Aucun article trouvé. Essayez avec d'autres mots-clés.",
+    "popularTags": "Tags populaires"
+  },
+  "blogPost": {
+    "backToBlog": "Retour au blog",
+    "by": "Par",
+    "share": "Partager",
+    "relatedPosts": "Articles similaires",
+    "cta": {
+      "title": "Découvrez nos services digitaux",
+      "description": "Profitez d'une expérience bancaire moderne avec BAMIS Digital",
+      "button1": "BAMIS Digital",
+      "button2": "Nous contacter"
+    },
+    "notFound": "Article non trouvé"
+  },
+  "contact": {
+    "hero": {
+      "title": "Contactez-nous",
+      "description": "Notre équipe est à votre écoute pour répondre à toutes vos questions et vous accompagner dans vos démarches bancaires"
+    },
+    "info": {
+      "phone": "Téléphone",
+      "email": "Email",
+      "address": "Adresse",
+      "hours": "Horaires"
+    },
+    "form": {
+      "title": "Envoyez-nous un message",
+      "description": "Remplissez le formulaire ci-dessous et nous vous répondrons dans les plus brefs délais",
+      "step1Title": "Type de demande",
+      "step2Title": "Vos informations",
+      "step3Title": "Votre message",
+      "continue": "Continuer",
+      "back": "Retour",
+      "submit": "Envoyer le message",
+      "firstName": "Prénom",
+      "firstNamePlaceholder": "Mohamed",
+      "lastName": "Nom",
+      "lastNamePlaceholder": "OULD Ahmed",
+      "email": "Email",
+      "emailPlaceholder": "mohamed@example.com",
+      "phone": "Téléphone",
+      "phonePlaceholder": "+222 XX XX XX XX",
+      "subject": "Objet",
+      "subjectPlaceholder": "Objet de votre demande",
+      "message": "Message",
+      "messagePlaceholder": "Décrivez votre demande en détail...",
+      "required": "*"
+    },
+    "types": {
+      "account": {
+        "label": "Ouvrir un compte",
+        "description": "Vous souhaitez devenir client BAMIS"
+      },
+      "support": {
+        "label": "Support technique",
+        "description": "Problème avec votre compte ou nos services"
+      },
+      "business": {
+        "label": "Entreprises & Professionnels",
+        "description": "Solutions bancaires pour votre entreprise"
+      },
+      "other": {
+        "label": "Autre demande",
+        "description": "Réclamation, suggestion ou autre"
+      }
+    },
+    "faq": {
+      "title": "Questions fréquentes",
+      "q1": "Quel est le délai de réponse ?",
+      "a1": "Nous traitons toutes les demandes sous 24h ouvrées maximum.",
+      "q2": "Puis-je prendre rendez-vous ?",
+      "a2": "Oui, contactez-nous par téléphone pour fixer un rendez-vous en agence.",
+      "q3": "Où trouver mon agence ?",
+      "a3": "Consultez notre page Agences & GAB pour trouver la plus proche de vous."
+    },
+    "emergency": {
+      "title": "Besoin d'aide urgente ?",
+      "description": "Pour les urgences bancaires (opposition carte, fraude), contactez-nous immédiatement",
+      "availability": "Disponible 24h/24, 7j/7"
+    },
+    "social": {
+      "title": "Suivez-nous",
+      "facebook": "Facebook",
+      "twitter": "Twitter",
+      "instagram": "Instagram",
+      "linkedin": "LinkedIn"
+    },
+    "branches": {
+      "title": "Visitez l'une de nos agences",
+      "description": "9 agences réparties à travers la Mauritanie pour vous servir",
+      "cta": "Trouver une agence"
+    }
+  },
+  "locations": {
+    "hero": {
+      "title": "Nos Agences & GAB",
+      "description": "Trouvez l'agence ou le distributeur automatique BAMIS le plus proche de vous",
+      "branchesCount": "Agences",
+      "atmsCount": "GAB"
+    },
+    "tabs": {
+      "branches": "Agences",
+      "atms": "GAB",
+      "allCities": "Toutes les villes"
+    },
+    "branch": {
+      "services": "Services disponibles:",
+      "fax": "Fax:"
+    },
+    "atm": {
+      "available": "Disponible 24/7"
+    },
+    "services": {
+      "all": "Tous services",
+      "direction": "Direction",
+      "customerService": "Service client",
+      "accounts": "Comptes",
+      "cards": "Cartes",
+      "transfers": "Transferts",
+      "deposits": "Dépôts",
+      "complete": "Services complets",
+      "digital": "Services digitaux",
+      "opening": "Ouverture compte"
+    },
+    "cities": {
+      "nouakchott": "Nouakchott",
+      "nouadhibou": "Nouadhibou",
+      "atar": "Atar",
+      "rosso": "Rosso",
+      "zouerate": "Zouérate",
+      "akjoujt": "Akjoujet"
+    },
+    "branches": {
+      "headquarters": "Siège Social",
+      "capitale": "Agence Capitale",
+      "congres": "Agence Palais des Congrès",
+      "tevragh": "Agence Tevragh-Zeina",
+      "teyarett": "Agence Teyarett",
+      "digital": "Agence BAMIS Digital",
+      "nouadhibou": "Agence Nouadhibou",
+      "nouadhibou2": "Agence Nouadhibou 2",
+      "atar": "Agence Atar"
+    },
+    "hours": {
+      "weekdays": "Lun-Jeu: 8h-16h, Ven: 8h-11h30",
+      "everyday": "Ouvert 7j/7"
+    },
+    "cta": {
+      "title": "Besoin d'aide pour trouver une agence ?",
+      "description": "Contactez notre service client pour plus d'informations",
+      "email": "Envoyer un email"
+    }
+  },
+  "cards": {
+    "hero": {
+      "title": "Cartes Bancaires BAMIS",
+      "description": "Choisissez la carte adaptée à vos besoins, pour vos opérations locales ou internationales"
+    },
+    "debitCards": {
+      "title": "Cartes de Débit",
+      "subtitle": "Cartes pour vos retraits et paiements quotidiens",
+      "errassid": {
+        "name": "Carte de débit ERRASSID",
+        "description": "Carte locale pour vos opérations quotidiennes",
+        "network": "Réseau GIMTEL",
+        "features": {
+          "0": "Retrait espèces 24h/24, 7j/7 des GAB de la BAMIS",
+          "1": "Retraits aux GAB affiliés au réseau GIMTEL",
+          "2": "Paiements chez les commerçants affiliés GIMTEL",
+          "3": "Alternative pratique à l'utilisation des espèces"
+        }
+      },
+      "visa": {
+        "name": "Carte de débit Visa Electron / Visa MIHVADHATI",
+        "description": "Carte internationale pour vos besoins au-delà des frontières",
+        "network": "Réseau VISA",
+        "features": {
+          "0": "Retrait espèces 24h/24, 7j/7 des GAB affichant le logo GIMTEL ou VISA",
+          "1": "Paiements chez les commerçants affiliés aux réseaux GIMTEL ou VISA",
+          "2": "Paiement sur internet en toute sécurité",
+          "3": "Acceptée dans les hôtels, supermarchés, etc."
+        }
+      }
+    },
+    "creditCards": {
+      "title": "Cartes de Crédit",
+      "subtitle": "Cartes avec crédit gratuit et débit différé",
+      "visaGold": {
+        "name": "Carte de crédit VISA GOLD",
+        "description": "Carte de crédit internationale haut de gamme",
+        "network": "Réseau VISA GOLD",
+        "features": {
+          "0": "Crédit gratuit",
+          "1": "Débit différé",
+          "2": "Retrait espèces 24h/24, 7j/7 des GAB GIMTEL ou VISA",
+          "3": "Paiements chez les commerçants GIMTEL ou VISA",
+          "4": "Paiement sur internet",
+          "5": "Services en Mauritanie et à l'étranger"
+        }
+      },
+      "essayire": {
+        "name": "Carte de crédit ESSAYIRE",
+        "description": "Carte de crédit locale avec débit différé",
+        "network": "Réseau GIMTEL",
+        "features": {
+          "0": "Crédit gratuit",
+          "1": "Débit différé",
+          "2": "Retrait espèces 24h/24, 7j/7 des GAB de la BAMIS",
+          "3": "Retraits aux GAB affiliés au réseau GIMTEL",
+          "4": "Paiements chez les commerçants affiliés GIMTEL"
+        }
+      }
+    },
+    "requirements": {
+      "title": "Comment obtenir une carte bancaire BAMIS",
+      "intro": "Pour obtenir une de nos cartes bancaires, téléchargez d'abord l'application BAMIS Digital pour contrôler vos cartes où que vous soyez et faciliter leur achat, puis visitez l'une de nos agences avec les éléments suivants :",
+      "list": {
+        "0": "Une copie de votre passeport ou votre carte d'identité",
+        "1": "Deux photos d'identité sur fond blanc",
+        "2": "Une demande d'ouverture de compte",
+        "3": "Les frais de la carte",
+        "4": "Photocopie du passeport ou Carte de séjour pour les étrangers"
+      }
+    },
+    "cta": {
+      "title": "Prêt à obtenir votre carte BAMIS ?",
+      "description": "Visitez l'une de nos agences ou téléchargez BAMIS Digital pour commencer",
+      "button1": "Trouver une agence",
+      "button2": "Télécharger BAMIS Digital"
+    }
+  },
+  "financing": {
+    "hero": {
+      "title": "Solutions de Financement BAMIS",
+      "description": "Des solutions de financement conformes à la finance islamique pour tous vos projets",
+      "ctaButton": "Simulation de Crédit"
+    },
+    "products": {
+      "title": "Nos Produits de Financement",
+      "subtitle": "La BAMIS propose toute une gamme de services et opérations conformes à la finance islamique",
+      "mourabaha": {
+        "name": "MOURABAHA",
+        "description": "Achat comptant / vente à terme de biens et produits",
+        "details": "Ce mode d'intervention est utilisé principalement pour le financement des opérations de commerce intérieur ou international. L'achat de matières premières ou de produits semi-finis peut aussi être financé par voie de MOURABAHA.",
+        "features": {
+          "0": "Terme de 1 à 12 mois",
+          "1": "Rémunération fixée à l'avance",
+          "2": "Financement du commerce intérieur ou international",
+          "3": "Achat de matières premières"
+        }
+      },
+      "murabahaRevolving": {
+        "name": "MOURABAHA REVOLVING",
+        "description": "Ligne de crédit renouvelable pour achats répétitifs",
+        "details": "Pour les clients dont l'activité nécessite l'achat de produits très divers et de manière répétitive. La banque accorde un plafond dans la limite duquel le client agit sous mandat de la banque pour l'achat de produits qu'il revend à lui-même avec une marge déterminée préalablement.",
+        "features": {
+          "0": "Plafond accordé par la banque",
+          "1": "Achat de produits très divers",
+          "2": "Marge déterminée préalablement",
+          "3": "Idéal pour activités répétitives"
+        }
+      },
+      "guarantees": {
+        "name": "Cautions & Avals",
+        "description": "Garanties bancaires pour vos activités commerciales",
+        "details": "La Banque émet les cautions et avals demandés par la clientèle dans le cadre de leurs activités d'importation, de soumission et d'exécution des marchés.",
+        "features": {
+          "0": "Cautions d'importation",
+          "1": "Cautions de soumission",
+          "2": "Cautions d'exécution des marchés",
+          "3": "Avals sur effets de commerce"
+        }
+      },
+      "leasing": {
+        "name": "Leasing",
+        "description": "Financement de biens d'équipements industriels",
+        "details": "Financement de biens d'équipements pour des projets industriels de toute sorte sous forme de leasing. Le loyer de l'équipement est déterminé en fonction de son coût et de la durée de l'opération.",
+        "features": {
+          "0": "Terme de 3 à 5 ans",
+          "1": "Avec ou sans délai de grâce",
+          "2": "Projets industriels de toute sorte",
+          "3": "Loyer déterminé selon le coût et la durée"
+        }
+      }
+    },
+    "personalCredits": {
+      "title": "3 Crédits qui répondent à vos différents besoins",
+      "ettemwile": {
+        "name": "ETTEMWILE",
+        "description": "Crédit pour vos projets personnels"
+      },
+      "ettejhizze": {
+        "name": "ETTEJHIZZE",
+        "description": "Crédit pour équipement de votre foyer"
+      },
+      "essekene": {
+        "name": "ESSEKENE",
+        "description": "Crédit pour l'acquisition de logement"
+      }
+    },
+    "advantages": {
+      "title": "Avantages",
+      "list": {
+        "0": "Durée de remboursement adaptée à vos besoins",
+        "1": "Possibilité d'un délai de grâce",
+        "2": "Montant conforme à vos capacités de remboursement",
+        "3": "Marges avantageuses",
+        "4": "Possibilité de prendre en compte le revenu du conjoint"
+      }
+    },
+    "beneficiaries": {
+      "title": "Bénéficiaires",
+      "list": {
+        "0": "Salariés du secteur public",
+        "1": "Salariés du secteur privé",
+        "2": "Professions libérales : avocats, notaires, experts-comptables",
+        "3": "Médecins, dentistes, pharmaciens",
+        "4": "Architectes"
+      }
+    },
+    "requirements": {
+      "title": "Pour obtenir un crédit bancaire",
+      "intro": "Vous devez fournir les éléments suivants :",
+      "list": {
+        "0": "Demande d'ouverture de compte portant la signature du demandeur",
+        "1": "Acte de naissance ou bulletin d'enrôlement à l'état civil",
+        "2": "Un justificatif de revenu (bulletin de salaire, contrats, etc.)",
+        "3": "Un justificatif d'adresse (facture d'électricité, d'eau, certificat de résidence)",
+        "4": "Une photo d'identité sur fond blanc",
+        "5": "Photocopie du passeport ou carte de séjour pour les étrangers"
+      }
+    },
+    "cta": {
+      "title": "Prêt à démarrer votre projet ?",
+      "description": "Commencez par simuler votre crédit en ligne ou visitez l'une de nos agences",
+      "button1": "Faire une simulation",
+      "button2": "Trouver une agence"
+    }
+  },
+  "international": {
+    "hero": {
+      "title": "Banque Internationale",
+      "description": "La BAMIS offre à sa clientèle tous les produits et services bancaires courants à l'international"
+    },
+    "services": {
+      "documentary": {
+        "name": "Les opérations documentaires",
+        "subtitle": "Import & Export",
+        "description": "Services complets pour vos opérations d'import et export avec gestion documentaire sécurisée.",
+        "features": {
+          "0": "Ouverture de crédits documentaires",
+          "1": "Gestion des documents d'expédition",
+          "2": "Suivi des opérations internationales",
+          "3": "Conformité réglementaire assurée"
+        }
+      },
+      "transfers": {
+        "name": "Les opérations de transferts",
+        "subtitle": "Transferts internationaux",
+        "description": "Envoyez et recevez des fonds à l'international en toute sécurité.",
+        "features": {
+          "0": "Transferts SWIFT",
+          "1": "Transferts vers l'étranger",
+          "2": "Réception de fonds internationaux",
+          "3": "Suivi en temps réel"
+        }
+      },
+      "currencyAccounts": {
+        "name": "La tenue de comptes en devises",
+        "subtitle": "Comptes multi-devises",
+        "description": "Gérez vos fonds en différentes devises étrangères.",
+        "features": {
+          "0": "Comptes en USD, EUR, et autres devises",
+          "1": "Gestion facilitée",
+          "2": "Relevés détaillés",
+          "3": "Accès en ligne"
+        }
+      },
+      "exchange": {
+        "name": "Les opérations de change",
+        "subtitle": "Change de devises",
+        "description": "Services de change de devises aux taux compétitifs.",
+        "features": {
+          "0": "Taux de change compétitifs",
+          "1": "Change de toutes devises principales",
+          "2": "Service rapide et sécurisé",
+          "3": "Conseils personnalisés"
+        }
+      },
+      "guarantees": {
+        "name": "Les garanties et contre-garanties",
+        "subtitle": "Sécurisation des opérations",
+        "description": "Garanties bancaires pour sécuriser vos opérations internationales.",
+        "features": {
+          "0": "Garanties internationales",
+          "1": "Contre-garanties",
+          "2": "Lettres de crédit stand-by",
+          "3": "Engagement bancaire sécurisé"
+        }
+      }
+    },
+    "benefits": {
+      "title": "Pourquoi choisir BAMIS pour vos opérations internationales",
+      "network": {
+        "title": "Réseau international",
+        "description": "Connexions avec les principales banques mondiales via le réseau SWIFT"
+      },
+      "security": {
+        "title": "Sécurité maximale",
+        "description": "Transactions sécurisées conformes aux normes internationales"
+      },
+      "expertise": {
+        "title": "Expertise documentaire",
+        "description": "Équipe spécialisée dans les opérations documentaires complexes"
+      }
+    },
+    "cta": {
+      "title": "Développez votre activité à l'international",
+      "description": "Contactez-nous pour découvrir comment nos services internationaux peuvent vous aider",
+      "button1": "Nous contacter",
+      "button2": "Trouver une agence"
+    }
+  }
+}
